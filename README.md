@@ -1,4 +1,4 @@
-# 📦 Simple Express.js REST API
+ Simple Express.js REST API (my 3mtt project)
 
 This is a simple RESTful API built with Express.js to demonstrate CRUD operations using an in-memory datastore. It includes routes for managing a list of items, each with an `id`, `name`, and `description`.
 
